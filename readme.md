@@ -8,7 +8,7 @@ A pokedex with an infinite scroll and a search bar. Consumes the [PokeAPI](https
 
 # Technologies
 
-This project uses [Vite](https://vitejs.dev/) to build a [React](https://react.dev/) app with [Tailwind CSS] and [TypeScript](https://www.typescriptlang.org/).
+This project uses [Vite](https://vitejs.dev/) to build a [React](https://react.dev/) app with [Tailwind CSS](https://tailwindcss.com/) and [TypeScript](https://www.typescriptlang.org/).
 
 # Installation
 
