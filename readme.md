@@ -15,7 +15,7 @@ This project uses [Vite](https://vitejs.dev/) to build a [React](https://react.d
 Clone the repository and install the dependencies:
 
 ```bash
-git clone
+git clone https://github.com/MSAZ89/pokedex-infinite-scroll.git
 cd pokedex
 npm install
 ```
