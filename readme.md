@@ -1,6 +1,8 @@
 # About
 
-A pokedex with an infinite scroll and a search bar. Consumes the [PokeAPI](https://pokeapi.co/) to get the data and https://unpkg.com/pokeapi-sprites@2.0.2 for images
+A pokedex with an infinite scroll and a search bar. Consumes the [PokeAPI](https://pokeapi.co/) to get the data and https://unpkg.com/pokeapi-sprites@2.0.2 for images.
+
+The images are in svg format so unless you've loaded them previously, there's a delay when you first load a pokemon image.
 
 # Demo
 
